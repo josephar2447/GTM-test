@@ -1,4 +1,7 @@
 # TurnKey — Account Intelligence Brief Generator
+
+<img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/ab16feb6-2859-4f4f-87ea-029f90e91fbc" />
+
 ### AI Ops Engineer Assignment · Go-to-Market
 
 > A CLI tool that generates a 1-page Account Intelligence Brief for any PE firm or PE-backed portfolio company. Built for business development reps who need a specific, signal-driven reason to reach out **this week**, not next quarter.
